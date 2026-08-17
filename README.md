@@ -172,14 +172,10 @@ Implementation of AES, RSA, and SHA-256 cryptographic algorithms in Python.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arunrajdamera&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunrajdamera&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunrajdamera&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
-<br/>
 
 ## Contribution Activity
 
