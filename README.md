@@ -89,8 +89,10 @@ I'm a **B.Tech CSE – Cyber Security** student at **GITAM (Deemed to be Univers
 **Software Development Intern** — GITAM UNIVERSITY
 `May 2026 – July 2026`
 
--Developed an automated faculty workload allocation system using FastAPI, React, PostgreSQL, and Docker.
--Implemented allocation, validation, optimization, and Excel/PDF reporting features to automate faculty course allocation.
+* Developed an automated faculty workload allocation system using FastAPI, React, PostgreSQL, and Docker
+* Implemented allocation, validation, and optimization features for automated course allocation
+* Built Excel/PDF reporting functionality for allocation results
+
 
 **Cyber Security Intern** — Cyber Crime Police Station, Visakhapatnam
 `January 2026 – March 2026`
