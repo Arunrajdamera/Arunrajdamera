@@ -216,11 +216,8 @@ Developed using Python for understanding practical cryptography concepts.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunrajdamera&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=39d353" alt="GitHub Contribution Activity" width="100%"/>
-
-<br/><br/>
-
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Arunrajdamera/Arunrajdamera/output/github-snake-dark.svg">
@@ -230,9 +227,10 @@ Developed using Python for understanding practical cryptography concepts.
     srcset="https://raw.githubusercontent.com/Arunrajdamera/Arunrajdamera/output/github-snake.svg">
 
   <img
-    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/Arunrajdamera/Arunrajdamera/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
     width="100%">
+
 </picture>
 
 </div>
