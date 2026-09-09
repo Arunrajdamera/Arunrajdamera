@@ -271,15 +271,17 @@ Hands-on security testing focused on identifying and documenting common web appl
 ### Cybersecurity
 
 - 🎓 **Google Cybersecurity Professional Certificate**
+- 🎓 **Fortinet Certified Fundamentals in Cybersecurity (FCF)**
 - 🎓 **Cisco Ethical Hacker**
-- 🎓 **Cisco Junior Cybersecurity Analyst Career Path**
 - 🎓 **AWS Incident Response**
-- 🎓 **Cybersecurity Analyst Job Simulation — Tata / Forage**
+- 🎓 **Cisco Junior Cybersecurity Analyst Career Path**
 
 ### Additional Training
 
 - **Digital Forensics Basics — Cybrary**
 - **TryHackMe — Hands-on Cybersecurity Training**
+- **Fortinet NSE 1 & NSE 2 — Cybersecurity Fundamentals**
+- **ISC2 Candidate — Pursuing Certified in Cybersecurity (CC)**
 
 ---
 
