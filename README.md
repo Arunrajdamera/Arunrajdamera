@@ -208,8 +208,6 @@ A security application designed to monitor authentication activity and identify 
 
 `Authentication Monitoring` `Threat Detection` `Audit Logging` `RBAC` `Machine Learning`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunrajdamera/AI-Powered-Authentication-and-Intrusion-Detection-System)
-
 ---
 
 ## ⚙️ Faculty Workload Allocation System — GITAM
