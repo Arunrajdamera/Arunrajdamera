@@ -2,9 +2,9 @@
 
 # Damera Arunraj
 
-### Cybersecurity & Agentic AI Engineer
+### Cybersecurity & Agentic AI Developer
 
-**Python • Agentic AI • LangGraph • RAG • FastAPI • Cybersecurity**
+**Python • Cybersecurity • Agentic AI • LangGraph • RAG • FastAPI**
 
 Building practical AI and cybersecurity systems with a focus on
 **agentic workflows, intelligent automation, threat detection, and secure software engineering.**
@@ -65,17 +65,17 @@ Tool Calling
 </td>
 <td width="25%" align="center">
 
-### 🧠 RAG & AI
+### 🛡️ Cybersecurity
 
-RAG  
-Vector Search  
-Knowledge Retrieval  
-LLM Applications
+Threat Detection  
+SIEM  
+Incident Response  
+Network Security
 
 </td>
 <td width="25%" align="center">
 
-### ⚡ Backend
+### ⚡ Backend Engineering
 
 Python  
 FastAPI  
@@ -85,12 +85,12 @@ REST APIs
 </td>
 <td width="25%" align="center">
 
-### 🛡️ Security
+### 🔐 Security Automation
 
-Threat Detection  
-SIEM  
-Incident Response  
-Network Security
+AI for Security  
+Security Workflows  
+Intelligent Automation  
+Secure Engineering
 
 </td>
 </tr>
