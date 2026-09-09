@@ -4,26 +4,27 @@
 
 ### Cybersecurity & Agentic AI Engineer
 
-**Python • Agentic AI • LangGraph • RAG • FastAPI • Security Engineering**
-
-<br/>
+**Python • Agentic AI • LangGraph • RAG • FastAPI • Cybersecurity**
 
 Building practical AI and cybersecurity systems with a focus on
 **agentic workflows, intelligent automation, threat detection, and secure software engineering.**
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Arunrajdamera">
-  <img src="https://img.shields.io/badge/GitHub-Arunrajdamera-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Arunrajdamera-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/arunrajdamera20/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://dameraarunraj.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+
 <a href="mailto:arunrajdamera20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -32,20 +33,23 @@ Building practical AI and cybersecurity systems with a focus on
 
 ## 👋 About Me
 
-I'm a **B.Tech Computer Science Engineering – Cyber Security** undergraduate at **GITAM (Deemed to be University), Visakhapatnam**, graduating in **2027**.
+I'm a **B.Tech Computer Science Engineering – Cyber Security** undergraduate at
+**GITAM (Deemed to be University), Visakhapatnam**, graduating in **2027**.
 
-My current focus is at the intersection of **Agentic AI and Cybersecurity**, with hands-on experience building backend systems, AI workflows, security applications, and automation-oriented projects.
+My current focus is at the intersection of **Agentic AI and Cybersecurity**, with
+hands-on experience building backend systems, AI workflows, security applications,
+and automation-oriented projects.
 
 - 🤖 Building **Agentic AI systems** using Python and LangGraph
-- 🔎 Developing practical skills in **RAG, AI agents, tool calling, and workflow orchestration**
+- 🧠 Exploring **RAG, AI agents, tool calling, and workflow orchestration**
 - ⚡ Building backend services using **FastAPI, Flask, PostgreSQL, and Docker**
-- 🛡️ Hands-on experience with **SOC concepts, threat detection, log analysis, and network security**
-- 🧠 Interested in **AI-powered security, intelligent automation, and autonomous decision-support systems**
-- 🚀 Learning through real projects, security labs, research, and engineering practice
+- 🛡️ Hands-on experience with **threat detection, log analysis, network security, and incident response**
+- 🔎 Interested in **AI-powered security and intelligent automation**
+- 🚀 Learning through practical projects, internships, security labs, and engineering practice
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 <table>
 <tr>
@@ -99,7 +103,7 @@ Network Security
 
 ---
 
-## 🧰 Technical Skills
+# 🧰 Technical Skills
 
 ### Programming & Backend
 
@@ -107,15 +111,16 @@ Network Security
 
 ### Agentic AI
 
-`LangGraph` `RAG` `LangChain` `Multi-Agent Systems` `Tool Calling` `AI Workflows`
+`LangGraph` `RAG` `Multi-Agent Systems` `Tool Calling` `AI Workflows`
 
 ### AI & Data
 
-`Machine Learning` `Scikit-learn` `Pandas` `NumPy` `Vector Search` `pgvector`
+`Machine Learning` `Vector Search` `pgvector`
 
-### Security
+### Cybersecurity
 
-`Threat Detection` `SIEM Fundamentals` `Log Analysis` `Incident Response` `Network Security` `Digital Forensics`
+`Threat Detection` `SIEM Fundamentals` `Log Analysis` `Incident Response`
+`Network Security` `Digital Forensics`
 
 ### Security Tools
 
@@ -133,12 +138,14 @@ Network Security
 
 **Python • LangGraph • RAG • FastAPI • PostgreSQL • pgvector • Docker • LangSmith**
 
-AeroMind is a **simulation-based Agentic AI platform** designed to demonstrate intelligent mission planning and decision-making through coordinated AI agents.
+AeroMind is a **simulation-based Agentic AI platform** designed to demonstrate
+intelligent mission planning and decision-making through coordinated AI agents.
 
 ### What I Built
 
-- Developed an **agentic AI workflow** for simulated drone mission operations.
-- Designed specialized agents for **mission planning, perception, knowledge retrieval, risk analysis, and decision-making**.
+- Developed an agentic AI workflow for simulated drone mission operations.
+- Designed specialized agents for **mission planning, perception, knowledge retrieval,
+  risk analysis, and decision-making**.
 - Used **LangGraph** to orchestrate agent workflows and manage state transitions.
 - Implemented **RAG with PostgreSQL and pgvector** for contextual knowledge retrieval.
 - Built **FastAPI REST APIs** for communication between the AI workflow and simulated drone operations.
