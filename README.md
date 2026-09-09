@@ -318,25 +318,21 @@ Engineering
 <div align="center">
 
 <a href="https://github.com/Arunrajdamera">
-<img src="https://img.shields.io/github/repos/Arunrajdamera?style=for-the-badge&label=Repositories&logo=github" alt="Repositories" />
+<img src="https://img.shields.io/github/followers/Arunrajdamera?style=for-the-badge&label=Followers&logo=github" alt="GitHub Followers" />
 </a>
 
-<a href="https://github.com/Arunrajdamera">
-<img src="https://img.shields.io/github/followers/Arunrajdamera?style=for-the-badge&label=Followers&logo=github" alt="Followers" />
+<a href="https://github.com/Arunrajdamera/Arunrajdamera">
+<img src="https://img.shields.io/github/stars/Arunrajdamera/Arunrajdamera?style=for-the-badge&label=Profile%20Stars&logo=github" alt="Profile Repository Stars" />
 </a>
 
-<a href="https://github.com/Arunrajdamera">
-<img src="https://img.shields.io/github/stars/Arunrajdamera?style=for-the-badge&label=Stars&logo=github" alt="Stars" />
-</a>
-
-<a href="https://github.com/Arunrajdamera">
-<img src="https://img.shields.io/github/commit-activity/y/Arunrajdamera?style=for-the-badge&label=Commits%20This%20Year&logo=github" alt="Commits This Year" />
+<a href="https://github.com/Arunrajdamera/Arunrajdamera/commits/main/">
+<img src="https://img.shields.io/github/last-commit/Arunrajdamera/Arunrajdamera?style=for-the-badge&label=Last%20Commit&logo=github" alt="Last Commit" />
 </a>
 
 <br/>
 <br/>
 
-<sub>Live GitHub metrics • Automatically updated from your public GitHub activity</sub>
+<sub>Live GitHub metrics • Powered by GitHub repository data</sub>
 
 </div>
 
