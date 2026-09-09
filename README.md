@@ -53,7 +53,6 @@ and automation-oriented projects.
 
 <table>
 <tr>
-
 <td width="25%" align="center">
 
 ### 🤖 Agentic AI
@@ -64,7 +63,6 @@ AI Workflows
 Tool Calling
 
 </td>
-
 <td width="25%" align="center">
 
 ### 🧠 RAG & AI
@@ -75,7 +73,6 @@ Knowledge Retrieval
 LLM Applications
 
 </td>
-
 <td width="25%" align="center">
 
 ### ⚡ Backend
@@ -86,7 +83,6 @@ PostgreSQL
 REST APIs
 
 </td>
-
 <td width="25%" align="center">
 
 ### 🛡️ Security
@@ -97,7 +93,6 @@ Incident Response
 Network Security
 
 </td>
-
 </tr>
 </table>
 
@@ -177,9 +172,7 @@ Mission Orchestrator
                         │
                         ▼
               Simulated Execution
-
-
-
+```
 
 ### Key Technologies
 
@@ -316,3 +309,47 @@ Engineering
     ├── PostgreSQL
     ├── Docker
     └── REST APIs
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunrajdamera&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" height="165"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunrajdamera/Arunrajdamera/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunrajdamera/Arunrajdamera/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Arunrajdamera/Arunrajdamera/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</picture>
+
+</div>
+
+---
+
+# 🔍 Areas of Interest
+
+`Agentic AI` `RAG` `Threat Detection` `SIEM & Log Analysis` `Incident Response` `Network Security` `Digital Forensics` `AI for Security`
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Arunrajdamera-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunrajdamera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunrajdamera20/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dameraarunraj.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunrajdamera20@gmail.com)
+
+</div>
