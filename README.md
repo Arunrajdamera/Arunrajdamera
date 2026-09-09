@@ -318,18 +318,27 @@ Engineering
 <div align="center">
 
 <a href="https://github.com/Arunrajdamera">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Arunrajdamera&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Overview" alt="GitHub Overview" />
+<img src="https://img.shields.io/github/repos/Arunrajdamera?style=for-the-badge&label=Repositories&logo=github" alt="Repositories" />
 </a>
 
 <a href="https://github.com/Arunrajdamera">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunrajdamera&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top Languages" />
+<img src="https://img.shields.io/github/followers/Arunrajdamera?style=for-the-badge&label=Followers&logo=github" alt="Followers" />
 </a>
 
-</div>
+<a href="https://github.com/Arunrajdamera">
+<img src="https://img.shields.io/github/stars/Arunrajdamera?style=for-the-badge&label=Stars&logo=github" alt="Stars" />
+</a>
 
-<p align="center">
-  <sub>Public repository activity • Languages are based on GitHub repository usage</sub>
-</p>
+<a href="https://github.com/Arunrajdamera">
+<img src="https://img.shields.io/github/commit-activity/y/Arunrajdamera?style=for-the-badge&label=Commits%20This%20Year&logo=github" alt="Commits This Year" />
+</a>
+
+<br/>
+<br/>
+
+<sub>Live GitHub metrics • Automatically updated from your public GitHub activity</sub>
+
+</div>
 
 ---
 
