@@ -114,8 +114,8 @@ Secure Engineering
 
 ### Cybersecurity
 
-`Threat Detection` `SIEM Fundamentals` `Log Analysis` `Incident Response`
-`Network Security` `Digital Forensics`
+`Threat Detection` `SIEM ` `Log Analysis` `Incident Response`
+`Network Security` `Digital Forensics` `TCP/IP` `DNS` `HTTP/HTTPS`
 
 ### Security Tools
 
@@ -133,18 +133,18 @@ Secure Engineering
 
 **Python • LangGraph • RAG • FastAPI • PostgreSQL • pgvector • Docker • LangSmith**
 
-AeroMind is a **simulation-based Agentic AI platform** designed to demonstrate intelligent mission planning and decision-making through coordinated AI agents.
+A simulation-based Agentic AI platform demonstrating intelligent mission planning and decision-making through coordinated AI agents.
 
 ### What I Built
 
-- Developed an agentic AI workflow for simulated drone mission operations.
+- Developed a multi-agent workflow for simulated drone mission operations.
 - Designed specialized agents for **mission planning, perception, knowledge retrieval, risk analysis, and decision-making**.
 - Used **LangGraph** to orchestrate agent workflows and manage state transitions.
 - Implemented **RAG with PostgreSQL and pgvector** for contextual knowledge retrieval.
-- Built **FastAPI REST APIs** for communication between the AI workflow and simulated drone operations.
+- Built **FastAPI REST APIs** for communication between the AI workflow and simulated operations.
 - Added **human approval and safety checks** before high-risk simulated actions.
 - Integrated **LangSmith** for agent workflow tracing and debugging.
-- Used **Docker** to containerize and manage application services.
+- Used **Docker** to containerize application and supporting services.
 
 ### Architecture
 
@@ -188,14 +188,14 @@ Mission Orchestrator
 
 A security application designed to monitor authentication activity and identify potentially suspicious behavior.
 
-### Highlights
+### What I Built
 
-- Developed a Python-based security monitoring application.
-- Implemented a **Random Forest model** to identify suspicious authentication behavior.
+- Developed a **Python-based security monitoring application** for authentication activity.
+- Implemented a **Random Forest machine learning model** to identify suspicious authentication behavior.
 - Achieved **88.8% accuracy** on the evaluated dataset.
-- Added authentication and **role-based access control**.
-- Implemented **audit logging** for security events.
-- Built a dashboard for authentication and threat analysis.
+- Added **role-based access control (RBAC)** for controlled application access.
+- Implemented **audit logging** for security events and authentication activity.
+- Built a dashboard for **authentication monitoring and threat analysis**.
 
 ### Security Capabilities
 
@@ -209,14 +209,14 @@ A security application designed to monitor authentication activity and identify 
 
 Backend system for automated faculty-subject allocation and workload management.
 
-### Highlights
+### What I Built
 
 - Developed backend functionality using **Python and FastAPI**.
-- Built REST APIs for faculty, subject, preference, and workload management.
-- Used PostgreSQL for structured application data.
+- Built REST APIs for **faculty, subject, preference, and workload management**.
+- Used **PostgreSQL** for structured application data.
 - Implemented allocation validation and workload verification.
 - Added reporting functionality for allocation results.
-- Used Docker for application deployment and service management.
+- Used **Docker** for containerized development and deployment.
 
 ### Engineering Focus
 
@@ -232,11 +232,11 @@ Hands-on security testing focused on identifying and documenting common web appl
 
 ### Activities
 
-- Network reconnaissance
-- Vulnerability assessment
-- Web application testing
-- Security finding documentation
-- Basic penetration testing workflows
+- Performed **network reconnaissance** and service enumeration.
+- Conducted **vulnerability assessment** using security scanning tools.
+- Performed basic **web application security testing**.
+- Documented security findings and potential risks.
+- Practiced basic **penetration testing workflows** in controlled environments.
 
 ---
 
@@ -283,34 +283,38 @@ Hands-on security testing focused on identifying and documenting common web appl
 - **Fortinet NSE 1 & NSE 2 — Cybersecurity Fundamentals**
 - **ISC2 Candidate — Pursuing Certified in Cybersecurity (CC)**
 
+### 💼 Practical Experience
+
+- **Cybersecurity Analyst Job Simulation — Tata / Forage**
+
 ---
 
 # 🧪 Currently Building & Exploring
 
 ```text
-Agentic AI
-    │
-    ├── Multi-Agent Workflows
-    ├── LangGraph
-    ├── RAG
-    ├── Tool Calling
-    └── AI Decision Systems
-
 Cybersecurity
-    │
-    ├── Threat Detection
-    ├── SIEM & Log Analysis
-    ├── Incident Response
-    ├── Network Security
-    └── AI for Security
+│
+├── Threat Detection & SIEM
+├── Security Log Analysis
+├── Incident Response
+├── Network Security
+└── AI-Assisted Security Operations
+
+Agentic AI
+│
+├── Multi-Agent Systems
+├── LangGraph
+├── RAG & Knowledge Retrieval
+├── Tool Calling
+└── Security Automation
 
 Engineering
-    │
-    ├── Python
-    ├── FastAPI
-    ├── PostgreSQL
-    ├── Docker
-    └── REST APIs
+│
+├── Secure Backend APIs
+├── Python
+├── FastAPI
+├── PostgreSQL
+└── Docker
 ```
 
 ---
@@ -356,17 +360,28 @@ Engineering
 
 # 🔍 Areas of Interest
 
-`Agentic AI` `RAG` `Threat Detection` `SIEM & Log Analysis` `Incident Response` `Network Security` `Digital Forensics` `AI for Security`
+`Cybersecurity Engineering` · `Security Operations` · `Threat Detection` · `Incident Response` · `Network Security` · `AI Security` · `Agentic AI` · `Security Automation` · `Digital Forensics`
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Arunrajdamera-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunrajdamera)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunrajdamera20/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dameraarunraj.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunrajdamera20@gmail.com)
+<a href="https://github.com/Arunrajdamera">
+  <img src="https://img.shields.io/badge/GitHub-Arunrajdamera-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arunrajdamera20/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://dameraarunraj.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:arunrajdamera20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
