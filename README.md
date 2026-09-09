@@ -317,9 +317,19 @@ Engineering
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunrajdamera&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" height="165"/>
+<a href="https://github.com/Arunrajdamera">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Arunrajdamera&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Overview" alt="GitHub Overview" />
+</a>
+
+<a href="https://github.com/Arunrajdamera">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunrajdamera&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top Languages" />
+</a>
 
 </div>
+
+<p align="center">
+  <sub>Public repository activity • Languages are based on GitHub repository usage</sub>
+</p>
 
 ---
 
